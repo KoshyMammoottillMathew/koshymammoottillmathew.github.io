@@ -52,18 +52,22 @@ interests:
 
 education:
   courses:
-    - course: Data Science & Artificial Intelligence Certification
+    - area: Data Science & Artificial Intelligence Certification
       institution: KELTRON
-      year: 2026
-    - course: Master of Business Administration (MBA)
+      date_start: '2025-01-01'
+      date_end: '2026-01-01'
+    - area: Master of Business Administration (MBA)
       institution: IGNOU
-      year: 2024
-    - course: Master of Arts (MA) in Clinical Psychology
+      date_start: '2022-01-01'
+      date_end: '2024-01-01'
+    - area: Master of Arts (MA) in Clinical Psychology
       institution: IGNOU
-      year: 2022
-    - course: Bachelor of Arts (BA) in English Literature
+      date_start: '2020-01-01'
+      date_end: '2022-01-01'
+    - area: Bachelor of Arts (BA) in English Literature
       institution: IGNOU
-      year: 2020
+      date_start: '2017-01-01'
+      date_end: '2020-01-01'
 
 bio: Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
 ---
