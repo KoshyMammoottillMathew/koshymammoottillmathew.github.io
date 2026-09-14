@@ -1,7 +1,4 @@
 # Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-
 # Website name
 title: Koshy Mammoottill Mathew
 
@@ -32,19 +29,25 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 disableAliases: true
+
+# FIXED: Standard output formats only
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS]
   section: [HTML, RSS]
+
 imaging:
   resampleFilter: lanczos
   quality: 90
   anchor: smart
   hint: picture
 timeout: 600000
+
+# FIXED: Standard taxonomies
 taxonomies:
-  author: authors
   tag: tags
+  category: categories
   publication_type: publication_types
+
 markup:
   _merge: deep
   highlight:
