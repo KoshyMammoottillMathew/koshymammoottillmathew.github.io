@@ -1,14 +1,12 @@
 ---
 title: Home
 type: landing
+headless: false
 
 sections:
-  - block: markdown
+  - block: biography
     content:
-      title: "Koshy Mammoottill Mathew"
-      subtitle: "Associate Data Scientist | Machine Learning & Analytics"
-      text: |
-        Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
+      username: admin
     design:
       columns: '1'
 ---
