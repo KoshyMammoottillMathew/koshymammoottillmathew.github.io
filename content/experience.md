@@ -1,35 +1,22 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: "Experience"
+date: 2026-09-15
 type: landing
 
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
 sections:
   - block: resume-experience
     content:
-      username: admin
+      title: Experience
+      date_format: Jan 2006
+      items:
+        - title: Associate Data Scientist
+          company: Microsoft
+          company_url: ''
+          company_logo: ''
+          location: India
+          date_start: '2024-01-01'
+          date_end: ''
+          description: Leading operations, data science workflows, and machine learning models.
     design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards/Licences/Certifications
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+      columns: '2'
 ---
