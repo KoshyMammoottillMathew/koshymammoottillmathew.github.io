@@ -1,7 +1,4 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-
 # Appearance
 appearance:
   mode: system
@@ -29,7 +26,6 @@ marketing:
 header:
   navbar:
     enable: true
-    block: 'navbar'
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
