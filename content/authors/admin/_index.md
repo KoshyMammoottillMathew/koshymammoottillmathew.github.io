@@ -51,22 +51,19 @@ interests:
   - Operations Research & Optimization
 
 education:
-  - area: Data Science & Artificial Intelligence Certification
-    institution: KELTRON
-    summary: |
-      Focused on Machine Learning, Deep Learning, Natural Language Processing (NLP), and Statistical Data Analysis.
-  - area: Master of Business Administration (MBA)
-    institution: IGNOU
-    summary: |
-      Specialized in Human Resource Management, Organizational Strategy, and Operations.
-  - area: Master of Arts (MA) in Clinical Psychology
-    institution: IGNOU
-    summary: |
-      Specialized in Behavioral Analysis, Cognitive Psychology, and Human Decision-Making Processes.
-  - area: Bachelor of Arts (BA) in English Literature
-    institution: IGNOU
-    summary: |
-      Focused on Linguistics, Critical Thinking, and Analytical Communication.
+  courses:
+    - course: Data Science & Artificial Intelligence Certification
+      institution: KELTRON
+      year: 2026
+    - course: Master of Business Administration (MBA)
+      institution: IGNOU
+      year: 2024
+    - course: Master of Arts (MA) in Clinical Psychology
+      institution: IGNOU
+      year: 2022
+    - course: Bachelor of Arts (BA) in English Literature
+      institution: IGNOU
+      year: 2020
 
 bio: Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
 ---
