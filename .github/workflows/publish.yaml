@@ -30,8 +30,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Tailwind CSS
-        run: npm install -g tailwindcss @tailwindcss/cli
+      - name: Install Local Tailwind CSS
+        run: npm install tailwindcss @tailwindcss/cli
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -40,8 +40,6 @@ jobs:
           extended: true
 
       - name: Build Hugo Site
-        env:
-          NODE_OPTIONS: "--no-warnings"
         run: hugo --gc --minify
 
       - name: Upload Artifacts
