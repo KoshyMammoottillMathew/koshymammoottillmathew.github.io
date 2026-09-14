@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2026-09-15
-type: landing
+layout: landing
 
 sections:
   - block: biography
