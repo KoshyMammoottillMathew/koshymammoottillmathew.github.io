@@ -6,5 +6,7 @@ type: landing
 sections:
   - block: biography
     content:
-      author: admin
+      username: admin
+    design:
+      columns: '1'
 ---
