@@ -6,7 +6,7 @@ title: Koshy Mammoottill Mathew
 first_name: Koshy
 last_name: Mammoottill Mathew
 
-# Pronouns (optional)
+# Pronouns
 pronouns: Him
 
 # Status emoji
@@ -16,20 +16,23 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
+# Highlight the author in author lists
 highlight_name: true
 
-# Role/position/tagline
+# Role / position / tagline
 role: Associate Data Scientist | Machine Learning & Analytics
 
-# Organizations/Affiliations
+# Organizations / Affiliations
 organizations:
   - name: Certificate Course in Data Science and Artificial Intelligence | KELTRON
     url: https://ksg.keltron.org
+
   - name: Master of Business Administration - Human Resources | IGNOU
     url: https://www.ignou.ac.in
+
   - name: Master of Arts in Clinical Psychology | IGNOU
     url: https://www.ignou.ac.in
+
   - name: Bachelor of Arts in English Literature | IGNOU
     url: https://www.ignou.ac.in
 
@@ -37,11 +40,13 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:koshymammoottilmathew@gmail.com'
+    link: mailto:koshymammoottilmathew@gmail.com
+
   - icon: github
     icon_pack: fab
     link: https://github.com/KoshyMammoottillMathew
 
+# Interests
 interests:
   - Data Science & Machine Learning
   - Artificial Intelligence & Neural Networks
@@ -50,26 +55,39 @@ interests:
   - Predictive Modeling & Data Visualization
   - Operations Research & Optimization
 
+# Professional experience
+work:
+  - position: Trust Operations Content Reviewer
+    company_name: Amazon
+    date_start: '2022-07-01'
+    date_end: '2025-03-01'
+    summary: |
+      Reviewed and moderated content for Amazon Ads Trust Operations while maintaining quality and process compliance. Contributed to process improvements, batch assignment optimization, time-tracking solutions, mentoring, and cross-training.
+
+# Education
 education:
   courses:
     - area: Data Science & Artificial Intelligence Certification
       institution: KELTRON
       date_start: '2025-01-01'
       date_end: '2026-01-01'
+
     - area: Master of Business Administration (MBA)
       institution: IGNOU
       date_start: '2022-01-01'
       date_end: '2024-01-01'
+
     - area: Master of Arts (MA) in Clinical Psychology
       institution: IGNOU
       date_start: '2020-01-01'
       date_end: '2022-01-01'
+
     - area: Bachelor of Arts (BA) in English Literature
       institution: IGNOU
       date_start: '2017-01-01'
       date_end: '2020-01-01'
 
-bio: Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
+# Biography
+bio: |
+  Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
 ---
-
-Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, and analytical modeling to solve complex problems.
