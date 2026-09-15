@@ -20,7 +20,11 @@ sections:
         text: "Explore My Work"
         url: "#projects"
         icon: arrow-down
+      media:
+        src: "avatar.jpg"
+        alt: "Koshy Mammoottill Mathew"
     design:
+      columns: "2"
       background:
         gradient:
           start: primary-100
@@ -28,7 +32,6 @@ sections:
           direction: "135"
       spacing:
         padding: ["6rem", "0", "6rem", "0"]
-
 
   # ============================================================
   # INTRODUCTION
