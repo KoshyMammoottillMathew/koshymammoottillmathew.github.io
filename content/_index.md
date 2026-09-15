@@ -8,30 +8,18 @@ sections:
   # HERO
   # ============================================================
 
-  - block: hero
+  - block: resume-biography-3
     content:
-      title: "Koshy Mammoottill Mathew"
-      text: "Data Science & Artificial Intelligence"
-      primary_action:
+      username: admin
+      button:
         text: "Download CV"
         url: "/uploads/resume.pdf"
-        icon: document-arrow-down
-      secondary_action:
-        text: "Explore My Work"
-        url: "#projects"
-        icon: arrow-down
-      media:
-        src: "avatar.jpg"
-        alt: "Koshy Mammoottill Mathew"
     design:
-      columns: "2"
       background:
         gradient:
           start: primary-100
           end: secondary-100
           direction: "135"
-      spacing:
-        padding: ["6rem", "0", "6rem", "0"]
 
   # ============================================================
   # INTRODUCTION
