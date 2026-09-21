@@ -2,8 +2,6 @@
 title: "SignBridge AI"
 date: 2026-09-19
 summary: "ASL fingerspelling-to-text recognition using MediaPipe, Temporal Conv1D, BiGRU, and CTC."
-authors:
-  - admin
 image:
   filename: featured.png
   focal_point: Center
