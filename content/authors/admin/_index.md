@@ -85,14 +85,17 @@ interests:
 work:
   - position: Amazon Ads Trust Operations Content Reviewer
     company_name: Amazon
+    company_url: https://www.amazon.com/
     date_start: '2022-07-01'
-    date_end: '2025-03-01'
+    date_end: '2025-03-31'
+    location: Bengaluru, Karnataka, India · Remote
     summary: |
-      Worked in Amazon Ads Trust Operations, reviewing and moderating content while maintaining quality, accuracy, and process compliance.
-
-      Contributed to process improvement initiatives, batch assignment optimization, time-tracking solutions, workflow improvements, mentoring, and cross-training.
-
-      Recognized through multiple RnR awards for contributions and performance.
+      - Reviewed and evaluated digital content within a high-volume Trust Operations environment, maintaining accuracy, consistency, and adherence to established quality and policy guidelines.
+      - Contributed to process improvements involving batch assignment, workflow tracking, and operational visibility.
+      - Developed a Sherlock Tool-based Live Batch Status Update solution to improve visibility into batch status and workflow progress.
+      - Developed a practical time-tracking solution to improve visibility into task allocation and work progress.
+      - Supported team capability development through mentoring and cross-training across processes.
+      - Received RnR recognition in April 2024 and July 2024, along with a Spot RnR award, for performance and contributions.
 
 
 # ============================================================
@@ -101,25 +104,41 @@ work:
 
 education:
 
-  - area: Certificate Course in Data Science and Artificial Intelligence
+  - area: Certificate Course, Data Science and Artificial Intelligence
     institution: KELTRON
-    date_start: '2025-01-01'
-    date_end: '2026-01-01'
+    date_start: '2026-01-01'
+    date_end: '2026-09-30'
+    summary: |
+      Completed a comprehensive Certificate Course in Data Science and Artificial Intelligence, covering the end-to-end foundations of Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
 
-  - area: Master of Business Administration (MBA) - Human Resource Management
+      Key areas included Statistics and Probability, Data Mining, Machine Learning, Cross-Validation, Predictive Modelling, Clustering, Data Visualization, Distributed Computing, Neural Networks, ANN, CNN, RNN, NLP, and AI.
+
+  - area: Master of Business Administration (MBA), Human Resource Management
     institution: Indira Gandhi National Open University (IGNOU)
     date_start: '2022-01-01'
-    date_end: '2024-01-01'
+    date_end: '2025-12-31'
+    summary: |
+      Completed a Master of Business Administration in Human Resource Management from Indira Gandhi National Open University (IGNOU).
 
-  - area: Master of Arts (MA) in Clinical Psychology
-    institution: Indira Gandhi National Open University (IGNOU)
-    date_start: '2020-01-01'
-    date_end: '2022-01-01'
+      MBA project: “Role of Emotional Intelligence in Performance Management Strategies of NABARD.”
 
-  - area: Bachelor of Arts (BA) in English Literature
+  - area: Master of Arts, Clinical Psychology
     institution: Indira Gandhi National Open University (IGNOU)
-    date_start: '2017-01-01'
-    date_end: '2020-01-01'
+    date_start: '2019-07-01'
+    date_end: '2021-06-30'
+    summary: |
+      Completed a Master of Arts in Clinical Psychology from Indira Gandhi National Open University (IGNOU).
+
+      Academic project: “Happiness in Relation to Personality Traits Among Adolescent Students.”
+
+      Completed an internship at General Hospital, Thiruvananthapuram, gaining practical exposure to a clinical healthcare environment.
+
+  - area: Bachelor of Arts, English Language and Literature, General
+    institution: Indira Gandhi National Open University (IGNOU)
+    date_start: '2014-06-01'
+    date_end: '2017-06-30'
+    summary: |
+      Completed a Bachelor of Arts in English Literature from Indira Gandhi National Open University (IGNOU), developing strong foundations in written communication, critical thinking, analysis, and interpretation.
 
 
 # ============================================================
