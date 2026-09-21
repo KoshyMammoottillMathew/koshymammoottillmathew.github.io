@@ -155,7 +155,7 @@ sections:
       text: "Interested in Data Science, Artificial Intelligence, Machine Learning, analytics, or potential opportunities?"
       button:
         text: "Get In Touch"
-        url: "mailto:koshymammoottillmathew@gmail.com"
+        url: "mailto:koshymammoottilmathew@gmail.com"
 
     design:
       background:
