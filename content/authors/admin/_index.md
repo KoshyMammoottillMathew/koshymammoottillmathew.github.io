@@ -55,15 +55,12 @@ organizations:
 
 social:
   - icon: envelope
-    icon_pack: fas
     link: 'mailto:koshymammoottilmathew@gmail.com'
 
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     link: 'https://github.com/KoshyMammoottillMathew'
 
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     link: 'https://www.linkedin.com/in/koshymammoottillmathew/'
 
 
