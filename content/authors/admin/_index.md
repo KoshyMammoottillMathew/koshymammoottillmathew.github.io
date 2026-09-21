@@ -205,41 +205,13 @@ languages:
 
 projects:
 
-  - name: Big Mart Sales Prediction
+  - name: SignBridge AI — ASL Fingerspelling-to-Text Recognition
     summary: |
-      Machine learning project focused on predicting product sales using structured retail data and predictive modeling techniques.
+      End-to-end deep learning system for continuous American Sign Language (ASL) fingerspelling-to-text recognition using MediaPipe hand landmarks, Temporal Conv1D, Bidirectional GRU, and CTC sequence modeling.
 
-  - name: MRI Scan Prediction
-    summary: |
-      Machine learning and medical image analysis project exploring MRI-based prediction.
+      Achieved a best validation Character Error Rate (CER) of 16.32% and a later cached FSBoard test-split CER of 15.96%. Includes SignBridge Live, an interactive Gradio webcam prototype for near-real-time recognition.
 
-  - name: CNN Cats vs Dogs Classification
-    summary: |
-      Computer vision project using Convolutional Neural Networks for image classification.
-
-  - name: CNN Face Mask Detection
-    summary: |
-      Computer vision project using CNN-based image classification for face mask detection.
-
-  - name: Animal Disease Prediction
-    summary: |
-      Machine learning project focused on predictive classification of animal disease-related data.
-
-  - name: Student Grade Prediction using ANN
-    summary: |
-      Artificial Neural Network project for predicting student performance and grades.
-
-  - name: NLP Text Classification
-    summary: |
-      Natural Language Processing projects involving TF-IDF feature extraction, text classification, and machine learning models.
-
-  - name: Resume-Job Similarity Analysis
-    summary: |
-      NLP-based project using TF-IDF and cosine similarity to compare resumes with job descriptions.
-
-  - name: Customer Support Chatbot
-    summary: |
-      NLP and machine learning project exploring intent classification and automated customer-support responses.
+      GitHub: https://github.com/KoshyMammoottillMathew/SignBridgeAI
 
 
 # ============================================================
