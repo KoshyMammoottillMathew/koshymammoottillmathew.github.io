@@ -1,7 +1,13 @@
 ---
-title: "SignBridge AI — ASL Fingerspelling-to-Text Recognition"
+title: "SignBridge AI"
 date: 2026-09-19
-summary: "Deep-learning accessibility system that converts continuous ASL fingerspelling video into text using MediaPipe hand landmarks, Temporal Conv1D, Bidirectional GRU, and CTC."
+summary: "ASL fingerspelling-to-text recognition using MediaPipe, Temporal Conv1D, BiGRU, and CTC."
+image:
+  filename: featured.png
+  focal_point: Center
+  preview_only: true
+  alt_text: "SignBridge AI hand landmark recognition interface"
+
 tags:
   - SignBridgeAI
   - Artificial Intelligence
