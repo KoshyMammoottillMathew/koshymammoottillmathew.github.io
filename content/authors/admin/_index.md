@@ -83,7 +83,7 @@ interests:
 # ============================================================
 
 work:
-  - position: Trust Operations Content Reviewer
+  - position: Amazon Ads Trust Operations Content Reviewer
     company_name: Amazon
     date_start: '2022-07-01'
     date_end: '2025-03-01'
