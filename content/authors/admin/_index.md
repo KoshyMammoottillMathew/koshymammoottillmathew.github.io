@@ -53,8 +53,8 @@ organizations:
 # SOCIAL NETWORKS
 # ============================================================
 
-social:
-  - icon: envelope
+profiles:
+  - icon: hero/envelope
     link: 'mailto:koshymammoottilmathew@gmail.com'
 
   - icon: brands/github
