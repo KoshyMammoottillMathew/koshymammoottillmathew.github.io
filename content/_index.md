@@ -78,33 +78,19 @@ sections:
     content:
       title: "Featured Projects"
       text: |
-        ### Big Mart Sales Prediction
+        ### SignBridge AI — ASL Fingerspelling-to-Text Recognition
 
-        A machine learning project focused on predicting retail sales using data preprocessing, feature engineering, regression, and model evaluation.
+        An end-to-end deep learning accessibility project that recognizes continuous **American Sign Language (ASL) fingerspelling** from video and converts it into text.
 
-        ---
+        The system uses **MediaPipe Hand Landmarker** to extract 21 three-dimensional hand landmarks (63 features per frame), followed by a **Temporal Conv1D + Bidirectional GRU + CTC** architecture for sequence recognition without frame-level character alignment.
 
-        ### Student Grade Prediction using ANN
+        **Key results:** 16.32% best validation CER · 15.96% later cached FSBoard test-split CER · 2.34M-parameter TensorFlow/Keras model.
 
-        An Artificial Neural Network project exploring student performance prediction using supervised learning techniques.
+        The project also includes **SignBridge Live**, an interactive Gradio webcam prototype for near-real-time fingerspelling recognition.
 
-        ---
+        **Technologies:** Python · TensorFlow/Keras · MediaPipe · OpenCV · NumPy · Pandas · Gradio
 
-        ### MRI Scan Prediction
-
-        A deep learning and computer vision project exploring image-based prediction using Convolutional Neural Networks.
-
-        ---
-
-        ### CNN Image Classification
-
-        Computer vision projects involving image classification, including Cats vs Dogs and Face Mask Detection.
-
-        ---
-
-        ### NLP & Chatbot Projects
-
-        Machine learning and NLP projects involving text classification, TF-IDF, semantic similarity, customer-support datasets, and conversational AI.
+        **[View SignBridge AI on GitHub](https://github.com/KoshyMammoottillMathew/SignBridgeAI)**
 
     design:
       columns: "1"
