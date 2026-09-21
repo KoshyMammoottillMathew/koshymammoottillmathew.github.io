@@ -7,9 +7,6 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Research
-    url: /#research
-    weight: 11
   #- name: Talks
   #  url: /#talks
   #  weight: 12
@@ -19,7 +16,7 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Research Projects
+  - name: Research & Project Report
     url: projects/
     weight: 30
   #- name: Lectures
