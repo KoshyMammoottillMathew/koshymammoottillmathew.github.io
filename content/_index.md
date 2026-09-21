@@ -97,6 +97,29 @@ sections:
 
 
   # ============================================================
+  # RESEARCH & PROJECT REPORT
+  # ============================================================
+
+  - block: markdown
+    id: research
+    content:
+      title: "Research & Project Report"
+      text: |
+        ### SignBridge AI: Real-Time ASL Fingerspelling-to-Text Recognition Using Deep Learning
+
+        **Academic Project Report · 2026**
+
+        Comprehensive project documentation covering **FSBoard video preprocessing, MediaPipe hand-landmark extraction, Temporal Conv1D + Bidirectional GRU + CTC sequence modelling, model training, Character Error Rate (CER) evaluation, diagnostic testing, and the SignBridge Live interactive prototype**.
+
+        The documented system achieved a **best validation CER of 16.32%** and a **later cached FSBoard test-split CER of 15.96%**.
+
+        **[View Project Report](https://github.com/KoshyMammoottillMathew/SignBridgeAI/blob/main/docs/SignBridge_AI_Project_Report.pdf)** · **[View GitHub Repository](https://github.com/KoshyMammoottillMathew/SignBridgeAI)**
+
+    design:
+      columns: "1"
+
+
+  # ============================================================
   # EXPERIENCE
   # ============================================================
 
