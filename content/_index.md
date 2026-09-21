@@ -128,7 +128,7 @@ sections:
     content:
       title: "Professional Experience"
       text: |
-        ### Trust Operations Content Reviewer — Amazon
+        ### Amazon Ads Trust Operations
 
         **July 2022 – March 2025**
 
