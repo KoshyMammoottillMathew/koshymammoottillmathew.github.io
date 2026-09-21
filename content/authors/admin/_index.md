@@ -62,6 +62,10 @@ social:
     icon_pack: fab
     link: 'https://github.com/KoshyMammoottillMathew'
 
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/koshymammoottillmathew/'
+
 
 # ============================================================
 # INTERESTS
@@ -82,10 +86,6 @@ interests:
 # PROFESSIONAL EXPERIENCE
 # ============================================================
 
-# IMPORTANT:
-# This structure is intentionally a direct list.
-# Do NOT put "work" inside another "courses" or nested structure.
-
 work:
   - position: Trust Operations Content Reviewer
     company_name: Amazon
@@ -98,32 +98,9 @@ work:
 
       Recognized through multiple RnR awards for contributions and performance.
 
-  # ----------------------------------------------------------
-  # Data Science / AI experience
-  # ----------------------------------------------------------
-  #
-  # This section intentionally does NOT describe your training
-  # as professional employment. Your projects are represented
-  # separately below.
-  # ----------------------------------------------------------
-
 
 # ============================================================
 # EDUCATION
-# ============================================================
-
-# IMPORTANT:
-# Hugo Blox resume-experience expects education as a DIRECT
-# list. Do not use:
-#
-# education:
-#   courses:
-#
-# Use:
-#
-# education:
-#   - area:
-#
 # ============================================================
 
 education:
@@ -229,10 +206,6 @@ languages:
 # ============================================================
 # SELECTED DATA SCIENCE & AI PROJECTS
 # ============================================================
-#
-# These are portfolio projects/training work and are kept
-# separate from professional employment experience.
-# ============================================================
 
 projects:
 
@@ -277,11 +250,6 @@ projects:
 # CALL TO ACTION / PROFILE DETAILS
 # ============================================================
 
-# This information can be used by Hugo Blox components that
-# support profile/contact information.
-
 email: koshymammoottilmathew@gmail.com
 
 ---
-
-Data Science and AI practitioner with a background in Business Administration (MBA) and Clinical Psychology (MA). Focused on leveraging machine learning, NLP, predictive modeling, computer vision, and data analytics to solve practical problems.
