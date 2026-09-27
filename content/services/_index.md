@@ -12,6 +12,15 @@ sections:
     design:
       columns: "1"
 
+  - block: markdown
+    content:
+      text: |
+        <a href="/uploads/services-brochure.png" target="_blank" rel="noopener" aria-label="Open full-size services brochure">
+          <img src="/uploads/services-brochure.png" alt="Koshy Mammoottill Mathew services brochure covering Data & AI, Business Automation, Web & Digital, Business & Analytics, HR & People Analytics, and Research & Professional Services" style="width:100%; height:auto; display:block; border-radius:12px;" loading="eager">
+        </a>
+    design:
+      columns: "1"
+
   - block: features
     content:
       title: "Data & AI"
