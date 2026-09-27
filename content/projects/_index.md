@@ -1,5 +1,5 @@
 ---
-title: 'Research & Project Report'
+title: 'Projects & Products'
 date: 2026-09-21
 type: landing
 
@@ -9,7 +9,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Research & Project Report
+      title: Projects & Products
       text: Explore my research and applied AI work. Select a project card to view the full project, results, architecture, and resources.
       count: 0
       filters:
