@@ -1,6 +1,6 @@
 ---
 title: "ResumeFill AI"
-date: 2026-10-11
+date: 2026-10-10
 summary: "Privacy-first résumé extraction and job application autofill assistant that processes résumé PDFs locally in the browser."
 tags:
   - ResumeFillAI
