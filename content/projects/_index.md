@@ -10,13 +10,11 @@ sections:
   - block: collection
     content:
       title: Projects & Products
-      text: Explore my research and applied AI work. Select a project card to view the full project, results, architecture, and resources.
+      text: Explore my research, applied AI work, and products. Select a card to view the full project, results, architecture, and resources.
       count: 0
       filters:
         folders:
           - projects
-        tags:
-          - SignBridgeAI
     design:
       view: article-grid
       fill_image: true
