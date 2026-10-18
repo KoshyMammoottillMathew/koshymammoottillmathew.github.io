@@ -19,11 +19,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout portfolio
         uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
+
+      - name: Checkout BusinessDesk
+        uses: actions/checkout@v4
+        with:
+          repository: KoshyMammoottillMathew/BusinessDesk
+          path: businessdesk-source
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -41,6 +47,20 @@ jobs:
 
       - name: Build Hugo Site
         run: hugo --gc --minify
+
+      - name: Install BusinessDesk dependencies
+        working-directory: businessdesk-source
+        run: npm install
+
+      - name: Build BusinessDesk
+        working-directory: businessdesk-source
+        run: npm run build
+
+      - name: Add BusinessDesk to portfolio artifact
+        run: |
+          rm -rf public/products/businessdesk-kmm
+          mkdir -p public/products/businessdesk-kmm
+          cp -R businessdesk-source/dist/. public/products/businessdesk-kmm/
 
       - name: Upload Artifacts
         uses: actions/upload-pages-artifact@v3
