@@ -1,6 +1,6 @@
 ---
 title: "BusinessDesk by KMM"
-date: 2026-10-19
+date: 2026-10-18
 summary: "Privacy-first, local-first business management workspace for finance, CRM, sales, invoices, quotations, projects, inventory, team management, goals and reporting."
 tags:
   - BusinessDesk
@@ -13,6 +13,8 @@ tags:
 links:
   - type: code
     url: https://github.com/KoshyMammoottillMathew/BusinessDesk
+  - type: site
+    url: https://koshymammoottillmathew.github.io/products/businessdesk-kmm/
 ---
 
 ## BusinessDesk by KMM
